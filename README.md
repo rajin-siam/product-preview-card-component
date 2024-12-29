@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/rajin-siam/recipe-page)
-- Live Site URL: [Live site URL here](https://rajin-siam.github.io/recipe-page)
+- Solution URL: [Solution URL here](https://github.com/rajin-siam/product-preview-card-component)
+- Live Site URL: [Live site URL here](https://rajin-siam.github.io/product-preview-card-component)
 
 ## My process
 
